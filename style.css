@@ -5,3 +5,5 @@ vertical-align: middle
 ;}
 .love{color: darkturquoise
     ; descent-override: ;}
+ol{ color: blueviolet;
+    display: inline-flexbox;}
